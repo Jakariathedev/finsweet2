@@ -11,6 +11,7 @@
             subHeading : '#161722',
             serviceitembg : '#FFF5EB',
             watchbg : '#F5F2F0',
+            ftrform : 'rgba(255, 255, 255, 0.15)',
           },
           maxWidth: {
             'container': '1280px',
@@ -40,6 +41,7 @@
           },
            opacity: {
             '78': '0.78',
+            '8': '0.8',
           },
         }
       }
